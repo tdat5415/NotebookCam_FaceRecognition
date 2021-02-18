@@ -1,0 +1,6 @@
+
+
+
+
+site-package\face_recognition\api.py의 
+맨밑 함수 face_compare(?)의 0.6값을 0.4로 조정
